@@ -4,7 +4,7 @@ import (
 	"context"
 	"net"
 
-	qmux "github.com/manifold/qtalk/qmux/go"
+	qmux "github.com/technoweenie/qtalk/qmux/go"
 )
 
 func DialTCP(addr string) (Session, error) {

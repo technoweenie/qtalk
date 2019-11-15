@@ -9,7 +9,7 @@ import (
 	"os/exec"
 	"testing"
 
-	qmux "github.com/manifold/qtalk/qmux/go"
+	qmux "github.com/technoweenie/qtalk/qmux/go"
 )
 
 const (

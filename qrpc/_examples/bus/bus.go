@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/manifold/qtalk/libmux/mux"
-	"github.com/manifold/qtalk/qrpc"
-	"github.com/manifold/qtalk/qrpc/bus"
+	"github.com/technoweenie/qtalk/libmux/mux"
+	"github.com/technoweenie/qtalk/qrpc"
+	"github.com/technoweenie/qtalk/qrpc/bus"
 )
 
 const busAddr = "localhost:4242"

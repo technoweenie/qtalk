@@ -6,7 +6,7 @@ import (
 	path_ "path"
 	"strings"
 
-	"github.com/manifold/qtalk/libmux/mux"
+	"github.com/technoweenie/qtalk/libmux/mux"
 )
 
 type Call struct {

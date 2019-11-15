@@ -5,7 +5,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/manifold/qtalk/qmux/go"
+	"github.com/technoweenie/qtalk/qmux/go"
 )
 
 type qmuxSession struct {

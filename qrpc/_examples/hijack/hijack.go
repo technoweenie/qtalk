@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/manifold/qtalk/libmux/mux"
-	"github.com/manifold/qtalk/qrpc"
+	"github.com/technoweenie/qtalk/libmux/mux"
+	"github.com/technoweenie/qtalk/qrpc"
 )
 
 const addr = "localhost:4243"

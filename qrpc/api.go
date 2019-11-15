@@ -5,7 +5,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/manifold/qtalk/libmux/mux"
+	"github.com/technoweenie/qtalk/libmux/mux"
 )
 
 type Responder interface {

@@ -12,7 +12,7 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/manifold/qtalk/libmux/mux"
+	"github.com/technoweenie/qtalk/libmux/mux"
 )
 
 type refmanager struct {

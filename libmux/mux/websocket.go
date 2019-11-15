@@ -7,7 +7,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/manifold/qtalk/qmux/go"
+	"github.com/technoweenie/qtalk/qmux/go"
 	"golang.org/x/net/websocket"
 )
 
